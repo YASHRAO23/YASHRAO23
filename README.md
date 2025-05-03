@@ -8,4 +8,4 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-6DA55F?style=for-the-badge&logo=SQL&logoColor=white) ![PowerbI](https://img.shields.io/badge/Powerbi-%23FF9900.svg?style=for-the-badge&logo=amazon-powerbi&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats:   
